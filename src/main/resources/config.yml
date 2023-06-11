@@ -1,0 +1,4 @@
+# BetterChat config
+chatMessageFormat: "%prefix%%player%%suffix% &7&l>> &r%msg%"
+lpRankSupport: true
+betterChatEnabled: true

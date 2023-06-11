@@ -1,0 +1,10 @@
+name: BetterChat
+version: '1.0-RELEASE'
+author: Lava
+main: me.lava.betterchat.BetterChat
+api-version: 1.19
+commands:
+  nickname:
+    description: Lets the sender change their nickname
+    aliases: nick
+    permission: betterchat.nick

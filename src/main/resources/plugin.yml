@@ -1,0 +1,5 @@
+name: BetterChat
+version: '${version}'
+author: Lava
+main: me.lava.betterchat.BetterChat
+api-version: 1.19
